@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">A passionate game developer from Turkey. I'm interested in Unity. </br>
-  Also I'm available for remote Game developer position.</h3>
+  Also I'm available for Game developer position.</h3>
 
  
 
